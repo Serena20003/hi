@@ -1,3 +1,11 @@
+# Used Resources
+
+https://github.com/gitname/react-gh-pages?tab=readme-ov-file
+
+# Future Watch-out
+
+p5-wrapper only compatible with react18.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
