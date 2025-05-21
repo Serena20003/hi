@@ -1,16 +1,19 @@
 {
   "files": {
-    "main.css": "/hi/static/css/main.f855e6bc.css",
-    "main.js": "/hi/static/js/main.1375e4a6.js",
+    "main.css": "/hi/static/css/main.fd5efaa8.css",
+    "main.js": "/hi/static/js/main.0e08d706.js",
     "static/js/453.55dc0373.chunk.js": "/hi/static/js/453.55dc0373.chunk.js",
-    "static/media/logo.svg": "/hi/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/Screenshot 2025-03-29 at 10.09.37 AM.png": "/hi/static/media/Screenshot 2025-03-29 at 10.09.37 AM.e0c4fa07005b98e8fbf7.png",
+    "static/media/Screenshot 2025-03-29 at 10.10.50 AM.png": "/hi/static/media/Screenshot 2025-03-29 at 10.10.50 AM.98cfb3c443ebb189dcbe.png",
+    "static/media/Serena_Li_resume_25S.pdf": "/hi/static/media/Serena_Li_resume_25S.558b44ee0a4e29f73eea.pdf",
+    "static/media/logo_usc.png": "/hi/static/media/logo_usc.1434b920fc7873ca5507.png",
     "index.html": "/hi/index.html",
-    "main.f855e6bc.css.map": "/hi/static/css/main.f855e6bc.css.map",
-    "main.1375e4a6.js.map": "/hi/static/js/main.1375e4a6.js.map",
+    "main.fd5efaa8.css.map": "/hi/static/css/main.fd5efaa8.css.map",
+    "main.0e08d706.js.map": "/hi/static/js/main.0e08d706.js.map",
     "453.55dc0373.chunk.js.map": "/hi/static/js/453.55dc0373.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f855e6bc.css",
-    "static/js/main.1375e4a6.js"
+    "static/css/main.fd5efaa8.css",
+    "static/js/main.0e08d706.js"
   ]
 }
